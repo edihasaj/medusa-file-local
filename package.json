@@ -1,6 +1,6 @@
 {
   "name": "medusa-file-local",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Local storage file connector for Medusa",
   "main": "index.js",
   "repository": {
